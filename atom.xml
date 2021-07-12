@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>元气满满每一天</title>
+  
+  
+  <link href="https://lavie2020.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lavie2020.github.io/"/>
+  <updated>2021-07-12T06:34:18.991Z</updated>
+  <id>https://lavie2020.github.io/</id>
+  
+  <author>
+    <name>摇 光</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日常生活</title>
+    <link href="https://lavie2020.github.io/2021/07/12/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    <id>https://lavie2020.github.io/2021/07/12/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</id>
+    <published>2021-07-11T16:02:27.476Z</published>
+    <updated>2021-07-12T06:34:18.991Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="租房"><a href="#租房" class="headerlink" title="租房"></a><strong><font color=#00BFFF><strong>租房</strong></font></strong></h1><ul><li><font color=#FFB6C1><strong>以此文章纪念我人生中的第一次租房</strong></font><h2 id="①：找房"><a href="#①：找房" class="headerlink" title="①：找房"></a><font color=#00FFFF><strong>①：找房</strong></font></h2></li><li><font color=#FFBBFF>首先是在安居客，58，自如上看了一眼各种房子（<del>这里不得不吐槽一下为什么自如的价格这么贵？</del>） ，随后发现房子的价格还是有些小贵的，权衡之后看中了公寓装修风格的居民房以及真正的公寓房，价格根据位置略有不同，居民房大约在4000-4500左右，公寓房大约在3500-4000左右，定安路附近  <h2 id="②：选房"><a href="#②：选房" class="headerlink" title="②：选房"></a><font color=#00FFFF><strong>②：选房</strong></font></h2></li><li>居民房主要的问题是：价格太贵，卫生间条件一般，装修相对来说一般  </li><li>公寓房的主要问题是：房间略小，而且没有阳台，另外床大部分是loft或者榻榻米形式，太过压抑  </li><li>暂定明天去看房  <h2 id="③：问题"><a href="#③：问题" class="headerlink" title="③：问题"></a><font color=#00FFFF><strong>③：问题</strong></font></h2></li><li>斓的实习工作未定，目前还不知道在哪上班，已经拿到一份滨江区的offer，但是由于薪资和路程，不是很想去。这导致我暂时只能寄宿在亲戚家里，每天花一个小时挤早高峰的地铁去上班，直到她找到合适的工作，然后我们在搬出去一起住，只希望不要太久吧，不然太考验我的意志力了    </li></ul><h2 id="④：做梦环节"><a href="#④：做梦环节" class="headerlink" title="④：做梦环节"></a><font color=#00FFFF><strong>④：做梦环节</strong></font></h2><ul><li>想找个价格合适，3500左右的房子，居民房也好，公寓房也好，装修好一点的，卫生间好一点的，离两个人上班的地方近一点的，好像属实是有点贪心了</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;租房&quot;&gt;&lt;a href=&quot;#租房&quot; class=&quot;headerlink&quot; title=&quot;租房&quot;&gt;&lt;/a&gt;&lt;strong&gt;&lt;font color=#00BFFF&gt;&lt;strong&gt;租房&lt;/strong&gt;&lt;/font&gt;&lt;/strong&gt;&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;fo</summary>
+      
+    
+    
+    
+    <category term="日常生活" scheme="https://lavie2020.github.io/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Butterfly 疑难点汇总</title>
+    <link href="https://lavie2020.github.io/2021/07/11/day2/"/>
+    <id>https://lavie2020.github.io/2021/07/11/day2/</id>
+    <published>2021-07-11T15:57:13.222Z</published>
+    <updated>2021-07-12T06:28:28.071Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="博客搭建日志"><a href="#博客搭建日志" class="headerlink" title="博客搭建日志"></a><font color=#0FFBF0><strong>博客搭建日志</strong></font></h1><h2 id="一些困难"><a href="#一些困难" class="headerlink" title="一些困难"></a>一些困难</h2><ul><li>hexo s 时出现的一些警告，暂时不知道有什么影响，网上没有相关资料，个人猜测是图片过大导致的。  </li><li>写文章时遇到的困难，无从下手，幸好找到了一个视频详细解释了如何用VScode编写文章，帮助极大，不过目前还需考虑的问题是如何改变字体颜色以及如何实现字体高亮  <font color=#00ffff>  现已解决 </font>  </li></ul><h2 id="测试图片"><a href="#测试图片" class="headerlink" title="测试图片"></a>测试图片</h2><ul><li><img src="https://img0.baidu.com/it/u=2461585511,2384965679&fm=26&fmt=auto&gp=0.jpg"></li><li><img src="day2/%E9%AC%BC.jpg"></li></ul><h2 id=""><a href="#" class="headerlink" title=""></a></h2><p><font color=#D87093>  <del>在测试图片时，发现了一个新的问题，在Markdown里使用绝对引用时（即调用本地图片），在上传到博客时会出现裂图现象</del>  </p><p><del>所以我采用了一种新的方案，将图片整合到一个文件夹里上传到github的仓库里，然后用仓库中图片的地址进行调用</del></p><p><del>这里建议采用图床神器PicGo，但我没有使用过，不做介绍</del>  </p><p><del>另外还有一个有趣的现象，在我的网络情况中，github时不时处于抽风状态，图片无法从github中调用，当我挂了梯子时，从github中获取的图片正常显示了，但从百度上获取的图片又挂了</del></p><p><del>图1为百度获取，图2为github调用</del><br> </font><br> 现在来看，刚使用hexo的我真是愚蠢啊  </p><hr><h2 id="现已完成在macOC系统上对hexo-butterfly的部署"><a href="#现已完成在macOC系统上对hexo-butterfly的部署" class="headerlink" title="现已完成在macOC系统上对hexo-butterfly的部署"></a>现已完成在macOC系统上对hexo-butterfly的部署</h2><ul><li>其实就是在macOC系统上重新安装一遍hexo，然后部署到github,在将windows上的source,themes,scaffolds,_config.yml复制并覆盖到macOS的blog文件夹中，即可完成博客搬迁</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;博客搭建日志&quot;&gt;&lt;a href=&quot;#博客搭建日志&quot; class=&quot;headerlink&quot; title=&quot;博客搭建日志&quot;&gt;&lt;/a&gt;&lt;font color=#0FFBF0&gt;&lt;strong&gt;博客搭建日志&lt;/strong&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h2 id=&quot;一些困难&quot;</summary>
+      
+    
+    
+    
+    <category term="Hexo搭建" scheme="https://lavie2020.github.io/categories/Hexo%E6%90%AD%E5%BB%BA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>准备开始 Python 学习</title>
+    <link href="https://lavie2020.github.io/2021/07/11/python/"/>
+    <id>https://lavie2020.github.io/2021/07/11/python/</id>
+    <published>2021-07-11T15:57:13.148Z</published>
+    <updated>2021-07-11T15:57:13.148Z</updated>
+    
+    
+    
+    
+    <category term="Python学习" scheme="https://lavie2020.github.io/categories/Python%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+</feed>
