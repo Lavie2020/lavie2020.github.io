@@ -6,7 +6,7 @@
   <link href="https://lavie2020.github.io/atom.xml" rel="self"/>
   
   <link href="https://lavie2020.github.io/"/>
-  <updated>2021-07-12T06:34:18.991Z</updated>
+  <updated>2021-07-29T07:53:01.670Z</updated>
   <id>https://lavie2020.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python Scrapy 经验总结</title>
+    <link href="https://lavie2020.github.io/2021/07/29/scrapy/"/>
+    <id>https://lavie2020.github.io/2021/07/29/scrapy/</id>
+    <published>2021-07-29T04:19:30.182Z</published>
+    <updated>2021-07-29T07:53:01.670Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="独立商品-无SKU"><a href="#独立商品-无SKU" class="headerlink" title="独立商品-无SKU"></a><font color=#1FFABB>独立商品-无SKU</font></h1><h2 id=""><a href="#" class="headerlink" title=""></a></h2><ul><li>分析主页，找到category</li><li>response category</li><li>观察分页，选择Xpath抓取或者拼接页码  </li><li>抓取详情页  </li><li>分析详情页数据保存地址（application)寻找到一个json文件<br>xpath抓取后json.loads</li><li>对数据进行储存，json中没有的数据用xpath在详情页中进行抓取  <h1 id="非独立商品-有SKU"><a href="#非独立商品-有SKU" class="headerlink" title="非独立商品-有SKU"></a><font color=#1FFABB>非独立商品-有SKU</font></h1><h2 id="-1"><a href="#-1" class="headerlink" title=""></a></h2></li><li>同上，唯一不同的是需要用for循环取出每一个需要储存的sku关键词，如size，color,以此存储在sku_list中</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;独立商品-无SKU&quot;&gt;&lt;a href=&quot;#独立商品-无SKU&quot; class=&quot;headerlink&quot; title=&quot;独立商品-无SKU&quot;&gt;&lt;/a&gt;&lt;font color=#1FFABB&gt;独立商品-无SKU&lt;/font&gt;&lt;/h1&gt;&lt;h2 id=&quot;&quot;&gt;&lt;a href=</summary>
+      
+    
+    
+    
+    <category term="Python学习" scheme="https://lavie2020.github.io/categories/Python%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>日常生活</title>
